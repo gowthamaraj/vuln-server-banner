@@ -1,0 +1,241 @@
+Htaccess File Disclosure
+Htpasswd File Disclosure
+HTTP File Disclosure
+Web Directory Default Browsable Feature
+Web Directory Browsable
+Disclosure of Sensitive Information in URLs
+Backup Files Present on Web Server
+New "Virtual Web Server" Hostnames Found.
+FrontPage Password Files: "service.pwd"
+FrontPage Password Files: "users.pwd"
+FrontPage Password Files: "authors.pwd"
+FrontPage Password Files: "administrators.pwd"
+Sambar Server Remote Command Execution Vulnerability
+MailStudio 2000 Buffer Overflow Vulnerability
+Windows NT Security File Accessible
+Trend Micro Interscan Viruswall Configurations Modification Vulnerability
+Allaire JRun Web Server Directory Traversal Vulnerability
+Allaire JRun JSP Source Disclosure Vulnerability
+Allaire JRun JSP File Disclosure Vulnerability
+Allaire JRun Unnecessary JSessionID Appending In URL Vulnerability
+Web Server Version
+SSL Web Server Version
+HTTPS SSL Certificate
+Microsoft IIS 4.0 Filter Extensions Buffer Overflow Vulnerability
+Netscape Enterprise Server "PageServices" File Disclosure Vulnerability
+Lotus Domino CGI Absolute Path Revealed
+Lotus Domino Version Disclosure Vulnerability
+Lotus Domino cgi-bin Buffer Overflow Vulnerability
+Netscape Enterprise Server (Web Publisher) Directory Listing Vulnerability
+Netscape Enterprise Server Web Publisher HTML File Information Disclosure Vulnerability
+Netscape Enterprise Server Web Publisher Directory Listing Vulnerability
+Netscape Enterprise Server Authentication Protocol Buffer Overflow Vulnerability
+Netscape Enterprise Server "GET" Request Buffer Overflow Vulnerability
+Netscape Enterprise Server "wp_html_rend" Command Denial of Service Vulnerability
+Netscape Enterprise Server "Search" Script Denial of Service Vulnerability
+Savant Web Server CGI Script Source Code Disclosure Vulnerability
+Apache Win32 Web root Directory Listing Vulnerability
+Linux ntop Unauthorized File Retrieval Vulnerability
+ntop -w Buffer Overflow Vulnerability
+Robotex Viking Server Buffer Overflow Vulnerability
+Worm HTTPd Directory Traversal Vulnerability
+Alt-N MDaemon 3.1.1 DoS Vulnerability
+Joe Kloss RobinHood Buffer Overflow Vulnerability
+Netbeans IDE Web server Vulnerability
+T. Hauck Jana Server Hex Encoded Directory Traversal Vulnerability
+T. Hauck Jana Server MS-DOS Device Name DoS Vulnerability
+O'Reilly WebSitePro Absolute Path Disclosure Vulnerability
+Microsoft IIS Web Server Absolute Path Disclosure Vulnerability
+PHP 3 Safe_Mode Bypass Vulnerability
+ZBSoft's ZBServer Pro Web Server Buffer Overflow Vulnerability
+Savant Web Server Buffer Overflow Vulnerability
+Microsoft Index Server File Viewing Vulnerability
+Microsoft IIS Index Server Arbitrary File Listing Vulnerability
+Microsoft IIS "idq" Absolute Path Disclosure Vulnerability Revealed
+Microsoft IIS 4 "webhits.dll" Vulnerability
+Microsoft NT IIS ASP Alternate Data Streams Vulnerability
+Microsoft IIS 4 "iisadmpwd" Web Directory Present
+Microsoft IIS 5.0 'Translate f' File Disclosure Vulnerability
+Zope Escalation of Privileges Vulnerability
+LiveStats Statistics Server 5.02x Buffer Overflow Vulnerability
+S.u.S.E Linux 6.3/6.4 Listing of Installed Packages on System
+iPlanet Web server .shtml Buffer Overflow Vulnerability
+Microsoft IIS 3.0 ASP Source Disclosure Vulnerability
+PeleSoft NetSnap Buffer Overflow Vulnerability
+Software602 602Pro LAN SUITE Buffer Overflow Vulnerability
+IBM HTTP Server Denial of Service Vulnerability
+Microsoft IIS 4.0 Log Avoidance Vulnerability
+Microsoft IIS 2.0 and 3.0 Long URL Vunerability
+BEA Systems WebLogic Server Remote Command Execution Vulnerability
+BEA Systems WebLogic Server SSIServlet Show Code Vulnerability
+SonicWALL SOHO Denial of Service Vulnerability
+vqSoft vqServer 1.4.49 DoS Vulnerability
+Acme THTTPd Buffer Overflow Vulnerability
+Gordano NTMail Web Configuration Denial of Service Vulnerability
+AnalogX SimpleServer:WWW GET Buffer Overflow Vulnerability
+Guido Frassetto SEDUM HTTP Server Directory Traversal Vulnerability
+GoAhead WebServer Directory Traversal Vulnerability
+WhitSoft Development SlimServe HTTPd Server DoS Vulnerability
+AOLserver Directory Traversal Vulnerability
+Soft Lite ServerWorx Directory Traversal Vulnerability
+Heat-On HSWeb Web Server Path Disclosure Vulnerability
+BEA Systems WebLogic Server JSP Source Code Disclosure Vulnerability
+Allaire JRun Servlet DoS Vulnerability
+Bajie Web server Remote Command Execution Vulnerability
+John Roy Pi3Web Buffer Overflow Vulnerability
+ITAfrica WEBactive Directory Traversal Vulnerability
+LocalWEB2000 Directory Traversal Vulnerability
+OmniHTTPD File Corruption and Command Execution Vulnerability
+Caucho Technology Resin Directory Traversal Vulnerability
+Caucho Technology Resin JSP & JavaBean Source Disclosure Vulnerability
+Netscape Enterprise Server Denial of Service Vulnerability
+Sun Microsystem's Chili!Soft ASP Administration Console Default Password Vulnerability
+Netscape FastTrak Server Cache Module DoS Vulnerability
+IBM Websphere Server JSP source code disclosure Vulnerability
+Roxen WebServer Null and Space Byte Listing Vulnerability
+ITAfrica WEBactive HTTP Server Long Request Denial of Service Vulnerability
+Acme THTTPd Global File Disclosure Vulnerability
+Microsoft IIS 4.0/5.0 Session ID Cookie Marking vulnerability
+Allaire JRun Servlet Extraleading slash Vulnerability
+Microsoft IIS File Fragment Disclosure Vulnerability
+Netscape Enterprise Server INDEX Directory Listing Vulnerability
+Netscape Enterprise Server Arbitrary Remote File Disclosure Vulnerability
+IBM HTTP Server Afpacache denial of service vulnerability
+Apache /tmp file race
+O'Reilly Website Professional Web Directory Disclosure Vulnerability
+BEA Systems WebLogic Server Double Dot Buffer Overflow Vulnerability
+Microsoft IIS WebDAV 'Search' Denial of Service Vulnerability
+Robin Twombly A1 HTTP Server Denial of Service Vulnerability
+Robin Twombly A1 HTTP Server Directory Traversal Vulnerability
+Michael Lamont Savant Web Server DoS Vulnerability
+Apache Tomcat 3.0 Directory Traversal Vulnerability
+602Pro Lan Suite Dos Device Denial of Service Vulnerability
+SEDUM HTTP Web server Denial of Service Vulnerability
+Microsoft IIS WebDAV Denial of Service Vulnerability
+BEA Systems WebLogic Server Directory Traversal Vulnerability
+Zope ZClass Modification DOS Vulnerability
+RobTex Viking Server Directory Traversal Vulnerability
+GoAhead WebServer /aux Denial of Service Vulnerability
+WEBactive HTTP Server Default Log Vulnerability
+Lotus Domino Multiple Denial of Service Vulnerabilities
+Xitami Web server MS DOS Device Name DoS Vulnerability
+Xitami Web server MS-DOS Device Name DoS Vulnerability
+Zope Web server Path Disclosure Vulnerability
+Viking Server Relative Path Webroot Escaping Vulnerability
+FileMaker Pro 5.0 Web Companion Software Multiple Vulnerabilities
+Allaire Macromedia ColdFusion 4.0x CFCACHE Vulnerability
+AnalogX SimpleServer:WWW AUX Directory Denial of Service Vulnerability
+Microsoft Windows 2000 IIS 5.0 IPP ISAPI 'Host:' Buffer Overflow Vulnerability
+BearShare 2.2.2 File Disclosure Vulnerability
+BRS WebWeaver HTTP 0.63 File Disclosure Vulnerability
+Microsoft IIS 4.0/5.0 Escaped Characters Vulnerability
+Microsoft IIS CGI Filename Decode Error Vulnerability
+Netscape Enterprise Server "REVLOG" Command Denial Of Service Vulnerability
+Jason Rahaim MP3Mystic Server Directory Traversal Vulnerability
+iPlanet Web Server URI/Method Denial of Service Vulnerability
+Apache Web Server HTTP Request Denial of Service Vulnerability
+DataWizard WebXQ Directory Traversal Vulnerability
+Symantec Netprowler Server Report Directory Traversal Vulnerability
+Elron IM Message Inspector Directory Traversal Vulnerability
+AnalogX SimpleServer:WWW 1.03 DoS Vulnerability
+Omnicron OmniHTTPD File Source Disclosure Vulnerability
+Omnicron OmniHTTPD PHP Denial of Service Vulnerability
+O'Reilly WebBoard Pager Hostile JavaScript Vulnerability
+Acme.Serve v1.7 Arbitrary File Access Vulnerability
+Microsoft IIS 4.0/5.0 Malformed File Extension DoS Vulnerability
+Netscape Enterprise Server "SAVE" Command Denial Of Service Vulnerability
+Netscape Enterprise Server "REVADD" Command Denial Of Service Vulnerability
+Netscape Enterprise Server "REVNUM" Command Denial Of Service Vulnerability
+Netscape Enterprise Server "STARTREV" Command Denial Of Service Vulnerability
+Netscape Enterprise Server "REVLABEL" Command Denial Of Service Vulnerability
+Air Messenger LAN Server Directory Traversal Vulnerability
+Air Messenger LAN Server Path Disclosure Vulnerability
+Gaztek HTTP Daemon Buffer Overflow Vulnerability
+MetaProducts Offline Explorer Directory Traversal Vulnerability
+Microsoft Index Server and Indexing Service ISAPI Extension Buffer Overflow Vulnerability
+Sambar Server 4.3 Buffer Overflow Vulnerability
+WebServer Cross-Site Scripting Vulnerability
+IBM WebSphere Showcode Vulnerability
+IBM WebSphere Application Server Plugin DoS Vulnerability
+Allegro RomPager Malformed URL Request DoS Vulnerability
+vWebServer MS DOS Device Name Denial of Service Vulnerability
+Squid Reverse Proxy Vulnerability
+Allaire JRun Admin Web Server Transversal Directory
+Savant Web Server Buffer Overflow Vulnerability
+CSM Alibaba Web Server DoS Vulnerability
+CSM Alibaba File Access Vulnerability
+AnalogX SimpleServer:WWW Hex Encoded URL Directory Traversal Vulnerability
+O'Reilly WebSite GET Buffer Overflow Vulnerability
+Balanced Web server is reachable through the Internet
+Oracle 9i Application Server Path Disclosure Vulnerability
+Microsoft IIS Internal IP Address/Internal Network Name Disclosure Vulnerability
+Netscape Enterprise Server Internal IP Address/Internal Network Name Disclosure Vulnerability
+Apache Server Address Disclosure Vulnerability
+SIX-webboard 2.01 File Retrieval Vulnerability
+Microsoft IIS 5.0 In-Process Table Privilege Elevation Vulnerability
+BadBlue Source Code Disclosure Vulnerability
+Jakarta Tomcat 3.2.1 Error Message Information Disclosure Vulnerability
+Microsoft ISA Server Proxy Service Memory Leak Denial of Service Vulnerability
+Roxen Remote File Access Vulnerability
+Microsoft ISA Server Cross-Site Scripting Vulnerability
+AOLServer Long Authentication String Denial of Service Vulnerability
+Surf-Net ASP Forum Predictable Cookie ID Vulnerability
+Jakarta Tomcat 3.2.1 Error Message Information Disclosure Vulnerability
+Microsoft IIS 4.0/5.0 Extended UNICODE Remote Execution Vulnerability
+Microsoft IIS 4.0/5.0 Malformed Filename Request Vulnerability
+iPlanet CMS/Netscape Directory Server Directory Traversal Vulnerability
+iPlanet CMS/Netscape Directory Server Plaintext Administrative Password Vulnerability
+Web server Reveals Password File
+Stalker CommuniGate Pro Arbitrary File Read Vulnerability
+Keware Technologies HomeSeer Directory Traversal Vulnerability
+Microsoft IIS UNC Mapped Virtual Host Vulnerability
+HP Web JetAdmin Directory Traversal Vulnerability
+Metainfo MetaIP and Sendmail Vulnerabilities
+Lotus Domino Server Directory Traversal Vulnerability
+Oracle Web Listener URL Character Substitution Vulnerability
+Simple Server Directory Traversal Vulnerability
+Microsoft IIS 4.0/5.0 Executable File Parsing Vulnerability
+Apache AuthPG Remote SQL Query Manipulation Vulnerability
+Apache mod_auth_mysql Remote SQL Query Manipulation Vulnerability
+Vibechild Directory Manager Command Execution Vulnerability
+Apache mod_auth_pgsql Remote SQL Query Manipulation Vulnerability
+HTTP method 'PUT' is enabled
+HTTP method 'MKCOL' is enabled
+HTTP method 'DELETE' is enabled
+HTTP method 'COPY' is enabled
+HTTP method 'MOVE' is enabled
+HTTP method 'LOCK' is enabled
+HTTP method 'PROPFIND' is enabled
+HTTP method 'MKDIR' is enabled
+HTTP method 'SAVE' is enabled
+HTTP method 'INDEX' is enabled
+PHPMyExplorer Arbitrary File Disclosure Vulnerability
+Web Server Internal IP Address/Internal Network Name Disclosure Vulnerability
+Apache mod_auth_oracle Remote SQL Query Manipulation Vulnerability
+Lotus Domino Internal IP Address Disclosure Vulnerability
+Microsoft IIS UTF Directory Traversal and Remote Command Execution Vulnerability
+Apple Macintosh OS X .DS_Store Directory Listing Disclosure Vulnerability
+Apple Macintosh OS X Client Apache Directory Contents Disclosure Vulnerability
+Apple Macintosh OS X FBCIndex File Contents Disclosure Vulnerability
+Microsoft IIS 4.0/5.0 File Permission Canonicalization Vulnerability
+Microsoft IIS WebDAV is activated
+Working Resources BadBlue Path Disclosure Vulnerability
+Working Resources BadBlue DoS Vulnerability
+Microsoft NT IIS MDAC RDS Vulnerability
+Zope DTML Format Method Checking Vulnerability
+Apache Possible Directory Index Disclosure Vulnerability
+Oracle9iAS Web Cache Buffer Overflow Vulnerability
+Lotus Notes Visible Views Disclosure Vulnerability
+Lotus Domino View ACL Bypass Vulnerability
+Lotus Domino File Disclosure Vulnerability
+Xitami Web server Empty GET Request Denial of Service Vulnerability
+IBM HTTP Server Source Code Disclosure Vulnerability
+Apache mod_usertrack Predictable ID Generation Vulnerability
+Jakarta Tomcat Path Disclosure Vulnerability
+Alchemy Lab Alchemy Eye Remote Command Execution Vulnerability
+Xitami Administrator Plaintext Password Storage Vulnerability
+Alchemy Lab Alchemy Eye Remote Network Log Viewing Vulnerability
+Acme THTTPd Basic Authentication Buffer Overflow Vulnerability
+Acme THTTPd Path Disclosure Vulnerability
+Compaq Insight Manager XE Buffer Overflow Vulnerability
+IBM WebSphere Application Server Predictable Session ID Vulnerability
